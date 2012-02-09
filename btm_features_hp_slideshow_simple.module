@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the BTM Features HP Slideshow Simple feature.
+ */
+
+include_once('btm_features_hp_slideshow_simple.features.inc');
